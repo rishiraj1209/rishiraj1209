@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
-<h3 align="center">A Constant Learner from India</h3>
+<br>
 
-- 🔭 I’m currently working on **Myself**
+<!-- GIF floating on the right -->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300">
 
-- 🌱 I’m currently learning **Web Development,DSA**
+<!-- Bold text content -->
+- 🔭 <b>I’m currently working on Myself</b><br>
+- 🌱 <b>I’m currently learning Web Development, DSA</b><br>
+- 📫 <b>How to reach me: rishiraj825268@gmail.com</b><br>
 
-- 📫 How to reach me **rishiraj825268@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
